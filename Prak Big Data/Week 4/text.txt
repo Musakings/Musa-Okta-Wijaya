@@ -1,0 +1,6 @@
+Musa,20,3.3
+Tegar,21,3.1
+Rivan,20,3.6
+Erwan,22,2.9
+Tika,19,3.7
+Dita,21,3.5
